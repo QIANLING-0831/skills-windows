@@ -1,4 +1,22 @@
-# Skills Windows
+<p align="center"><img src=".github/readme/banner.svg" alt="Skills for Windows — 面向 Windows 的技能工具集" width="100%"></p>
+
+<h1 align="center">Skills for Windows · 面向 Windows 的技能工具集</h1>
+
+<p align="center">将 Matt Pocock 技能集适配为 Windows 安装与日常使用流程。</p>
+
+<p align="center"><img src="https://img.shields.io/badge/docs-%E4%B8%AD%E6%96%87-38bdf8?style=flat-square&amp;labelColor=172033" alt="docs: 中文"> <img src="https://img.shields.io/badge/maintainer-QIANLING-0831-38bdf8?style=flat-square&amp;labelColor=172033" alt="maintainer: QIANLING-0831"> </p>
+
+<p align="center"><a href="#快速安装">快速安装</a> &nbsp; · &nbsp; <a href="#其他命令">其他命令</a> &nbsp; · &nbsp; <a href="#目录结构">目录结构</a> &nbsp; · &nbsp; <a href="#迁移说明">迁移说明</a></p>
+
+---
+
+## 项目概览
+
+| 方向 | 内容 |
+| --- | --- |
+| **一键安装** | 复制到用户技能目录 |
+| **更新方式** | 支持目录联接与多客户端目录 |
+| **Windows 适配** | PowerShell 脚本、路径与钩子模板 |
 
 Matt Pocock `skills-1.1.0` 的 Windows / Codex 版本，独立放在这个文件夹里。
 
